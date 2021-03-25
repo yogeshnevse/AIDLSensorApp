@@ -1,0 +1,3 @@
+include ':AIDLSdk'
+include ':app'
+rootProject.name = "AIDL Sensor App"
